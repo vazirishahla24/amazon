@@ -1,0 +1,13 @@
+.product {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    align-items: start;
+    padding: 10px;
+}
+
+.image {
+    position: sticky;
+    top: 100px;
+    padding: 15px;
+    width: 350px;
+}

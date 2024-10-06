@@ -1,0 +1,18 @@
+.home {
+    position: relative;
+    background-color: rgb(226, 230, 231);
+}
+
+.background {
+    width: 100%;
+}
+
+.productList {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding: 30px;
+    gap: 8px;
+    position: relative;
+    transform: translateY(-200px);
+    width: 100%;
+}

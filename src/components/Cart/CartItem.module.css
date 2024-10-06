@@ -1,0 +1,84 @@
+.cartItem {
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    border-top: 1px solid rgb(207, 207, 207);
+}
+
+.image {
+    width: 200px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: 600;
+    display: flex;
+}
+
+.price span {
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.stock {
+    color: #007600;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.prime {
+    width: 100px;
+}
+
+.gift {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.gift label {
+    font-size: 12px;
+}
+
+.select {
+    background-color: rgb(240, 242, 241);
+    border: none;
+    border-radius: 8px;
+    padding: 4px 6px;
+    box-shadow: 0 0 5px grey;
+    font-size: 12px;
+}
+
+.select:focus {
+    outline: 1px solid rgb(4, 123, 147);
+}
+
+.selection {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.selection>button {
+    background-color: transparent;
+    border: none;
+    color: teal;
+    cursor: pointer;
+}
+
+.selection>button:hover {
+    color: tomato;
+}
+
+.selection>button::before {
+    content: '|';
+    margin: 10px;
+}

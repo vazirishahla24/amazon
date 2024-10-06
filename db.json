@@ -1,0 +1,299 @@
+{
+    "products": [{
+            "id": "1",
+            "title": "Lenovo",
+            "description": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+            "price": 323.97,
+            "originalPrice": "",
+            "rating": [
+                4.3,
+                4094
+            ],
+            "styles": [{
+                    "title": "36GB RAM | 1TB SSD | i5",
+                    "price": 883.18
+                },
+                {
+                    "title": "40GB RAM | 2TB SSD",
+                    "price": 563
+                },
+                {
+                    "title": "Laptop",
+                    "price": 323.97
+                }
+            ],
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "ModelName",
+                    "ScreenSize",
+                    "Color",
+                    "Hard Disk Size",
+                    "CPU Model",
+                    "Ram Memory Installed Size",
+                    "Operating System",
+                    "Special Feature",
+                    "Graphics Card Description"
+                ],
+                "descriptions": [
+                    "Lenovo",
+                    "IdeaPad 3 81X800ENUS",
+                    "15.6 Inches",
+                    "Almond",
+                    "256 GB",
+                    "Core i3",
+                    "20 GB",
+                    "Windows 11",
+                    "Anti Glare Coating",
+                    "Integrated"
+                ]
+            },
+            "MoreInformation": [
+                "【Memory & Storage】Memory is 8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once. Hard Drive is 256GB PCIe Solid State Drive which allows to fast bootup and data transfer",
+                "【Processor】11th Gen Intel Core i3-1115G4 Dual-Core 3.0GHz Processor (6MB Intel Smart Cache, up to 4.10GHz) Intel UHD Graphics",
+                "【Screen】15.6 HD Touchscreen (1366 x 768) Display",
+                "【Ports】2 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A, 1 x HDMI, 1 x Combination Audio Jack, 1 x Multi-format SD Media Card Reader, Wireless-AC Wi-Fi 5 + Bluetooth Combo",
+                "【Operating System】Windows 11 Home"
+            ],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro1.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Headset",
+            "description": "Yealink BH70 Wireless Bluetooth Headset with Microphone for Work, up to 35h Talking Battery Life, 3-Mic Noise Cancellation, 147g Lightweight Microsoft Teams Certified Headphone for Open Office, USB-A",
+            "price": 29.99,
+            "discountPercentage": 12.96,
+            "rating": [
+                3.5,
+                54
+            ],
+            "styles": null,
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "Ear Placement",
+                    "Form Factor",
+                    "Model Name",
+                    "Connectivity Technology"
+                ],
+                "descriptions": [
+                    "Yealink",
+                    "On Ear",
+                    "On Ear",
+                    "BH70 Dual Teams USB-A",
+                    "Wireless"
+                ]
+            },
+            "MoreInformation": [
+                "Teams Certification ▶ Yealink has always maintained close cooperation with Microsoft. This new BH70 headset has been certified by Microsoft Teams, and you can join Teams meetings with one click on the headset to ensure that you can enjoy the original experience of Teams seamlessly during your work. When users make a call or attend a meeting, the visibility indicators of the BH70 automatically glow red to reduce external interference and allow users to focus on the conversation.",
+                "Immersive Calls ▶ With the support of Yealink acoustic shield technology, the three built-in 3 MEMS microphones of BH70 can automatically block background noise while ensuring that participants' voices are clearly conveyed, greatly improving communication efficiency. Whether it’s a busy conference call in the office or noisy background sounds in an open work area, it is no longer an obstacle to the quality of communication.",
+                "Brilliant Audio Quality ▶ The BH70 also has excellent voice reception capabilities, any factors that may lead to increased distortion or blur are avoided. Whether you're in a busy office environment or on-the-go, the BH70 ensures that your calls are clear and professional. On the other hand, when it comes to music mode, BH70 headphones use dynamic EQ adapts to different genres of music to deliver an immersive audio experience with rich bass, detailed midrange tones, and crisp highs.",
+                "All-day Wearing Comfort ▶ Through hundreds of head-form evaluations and thousands of wearing comfort tests, we have ensured that BH70 headset provides optimal support and comfort for extended periods of use, which meet the highest ergonomic standards. Furthermore, the carefully selected materials used in constructing this headset ensure that it remains light on your head while still maintaining durability and sturdiness.",
+                "Power Battery Life ▶ Yealink's battery performance has always maintained an industry advantage, this BH70 bluetooth headset is designed to provide an exceptional talk time of up to 35 hours, ensuring that you can stay connected and engaged for extended periods without worrying about battery life."
+            ],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro2.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Gaming PC",
+            "description": "iBUYPOWER Trace Mesh Gaming PC Computer Desktop TMI7N46T01, Intel Core i7 14700F, NVIDIA GeForce RTX 4060 Ti 8GB, 32GB DDR5 5600 RGB, 1 TB NVMe SSD, WiFi Ready, Windows 11 Home",
+            "price": 2099.99,
+            "discountPercentage": 12.96,
+            "rating": [
+                4.3,
+                218
+            ],
+            "styles": [{
+                    "title": "Trace 2",
+                    "price": 1599.99
+                },
+                {
+                    "title": "Trace Mesh",
+                    "price": 1149.99
+                }
+            ],
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "Operating System",
+                    "CPU Model",
+                    "CPU Speed",
+                    "Cache Size",
+                    "Graphics Card Description",
+                    "Graphics Coprocessor",
+                    "Memory Storage Capacity",
+                    "Memory Slots Available",
+                    "Specific Uses For Product"
+                ],
+                "descriptions": [
+                    "iBUYPOWER",
+                    "Windows 11 Home",
+                    "Intel Core i7",
+                    "2.1 GHz",
+                    "32",
+                    "Dedicated",
+                    "NVIDIA GeForce RTX 4060Ti",
+                    "32 GB",
+                    "4",
+                    "Everyday Use, Gaming, Business"
+                ]
+            },
+            "MoreInformation": [
+                "I7 14700F, RTX 4060Ti 8GB, 32GB DDR5 5600 RGB 16x2, 1TB NVMe SSD, WIFI Ready, Windows 11 Home",
+                "Connectivity: 6 x USB 3.1 | 1x RJ-45 Network Ethernet 10/100/1000 | Audio: On board audio",
+                "Special Add-Ons: Tempered Glass RGB Gaming Case | 802.11AC Wi-Fi Included | 16 Color RGB Lighting Case | Free iBuyPower Gaming Keyboard & RGB Gaming Mouse | No Bloatware"
+            ],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro3.jpg"
+        },
+        {
+            "id": "4",
+            "title": "Headset",
+            "description": "Yealink Bluetooth Headset BH71,Wireless Bluetooth Earpiece with 4 Noise Canceling Microphones,Teams&Zoom Certified,Mute Function,Connect to PC Cell Phone iPhone Android Driving Business Office",
+            "price": 101.3,
+            "discountPercentage": 12.96,
+            "rating": [
+                4.1,
+                65
+            ],
+            "ListPrice": "321.99",
+            "shipping": 91.31,
+            "styles": [{
+                    "title": "Headset + Charge Case + USB-A Dongle",
+                    "price": 101.48
+                },
+                {
+                    "title": "Headset + Carrying Case(Without Dongle)",
+                    "price": 65.3
+                }
+            ],
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "Color",
+                    "Ear Placement",
+                    "Form Factor",
+                    "Noise Control"
+                ],
+                "descriptions": [
+                    "Yealink",
+                    "Black",
+                    "On Ear",
+                    "On Ear",
+                    "Sound Isolation"
+                ]
+            },
+            "MoreInformation": [
+                "【Bluetooth 5.2】Adopted Bluetooth 5.2 technology provides you super clear voice for talking. You can move freely with up to a 130ft (40 m) range, which gives you up to 4X the range of other Bluetooth headsets. Fast and easy to pair two devices at once.Compatible with iPhone, Android, tablets, laptops, and other leading smartphones.",
+                "【Great Noise Canceling】Upgraded BH71 Bluetooth earpiece adopts 4-Mic Beamforming Noise Cancellation Technology with multiple microphones to block 90% background noise for clearer calls. so your voice comes through clearly, especially outdoors.",
+                "【Hands-Free Call & Mute Function】Activate Siri, and Google Assistant to allow you to easily answer, end, or reject calls, freeing your hands. Besides, the mute button on the Bluetooth earpieces can easily mute. During important business meetings, when there is an incoming call, you can activate the mute function at any time when answering, to prevent the other party from hearing, to protect your company's secrets, and then continue the meeting.",
+                "【Ergonomic Design】bluetooth headset easily adjusts the ear hook to fit your ear best. Pull out the hook and put it on, and you can wear it with all-day comfort. The whole headset only weighs 18 grams/0.63oz, which makes your ear happy all day. 3Pcs different sizes ear tips to meet your needs.",
+                "【Long Battery Life】Supports 7 hours of continuous talking and 216 hours of standby times in 1.5 hours single charge. it’s convenient for you to travel for a long time without frequently searching for a charging port."
+            ],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro4.jpg"
+        },
+        {
+            "id": "5",
+            "title": "Gaming Chair",
+            "description": "Gaming Chair, Computer Chair with Footrest and Lumbar Support, Ergonomic Video Game Chair Height Adjustable with Swivel Seat and Headrest, Blue",
+            "price": 109.99,
+            "originalPrice": 129.99,
+            "rating": [
+                3.7,
+                69
+            ],
+            "shipping": 91.99,
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "Color",
+                    "Product Dimensions",
+                    "Special Feature",
+                    "Unit Count"
+                ],
+                "descriptions": [
+                    "Ntiibcuy",
+                    "Blue",
+                    "21.25\"D x 21.25\"W x 45.28\"H",
+                    "Reclining",
+                    "1.0 Count"
+                ]
+            },
+            "MoreInformation": [],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro5.jpg"
+        },
+        {
+            "id": "6",
+            "title": "Computer Mouse",
+            "description": "Amazon Basics 2.4 Ghz Wireless Optical Computer Mouse with USB Nano Receiver, Black",
+            "price": 9.49,
+            "rating": [
+                4.5,
+                56865
+            ],
+            "styles": [{
+                    "title": "1-Pack"
+                },
+                {
+                    "title": "30-Pack"
+                }
+            ],
+            "category": "",
+            "Specifications": {
+                "titles": [
+                    "Brand",
+                    "Color",
+                    "Connectivity Technology",
+                    "Special Feature",
+                    "Movement Detection Technology"
+                ],
+                "descriptions": [
+                    "Amazon Basics",
+                    "Black",
+                    "Wireless",
+                    "Wireless",
+                    "Optical"
+                ]
+            },
+            "MoreInformation": [
+                "Wireless mouse in Black (30-pack) for easily navigating a computer interface; click, scroll, and more",
+                "2.4 GHz wireless connection (does not support Bluetooth); uses a USB nano receiver that can stay plugged into your computer without obstructing other ports or can stow inside the wireless mouse when not in use; note: receiver is stored inside the mouse from production and needs to be removed upon setup",
+                "Optical sensor works on most surfaces",
+                "3 buttons offer effortless fingertip control",
+                "Compatible with Windows 2000, XP, Vista, 7, 8, and 10",
+                "Easy installation; refer to user manual for instructions",
+                "Product Dimensions: 4 x 2.3 x 1.6 inches (LxWxH)"
+            ],
+            "Note": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+            "imageURL": "../assets/pro6.jpg"
+        }
+    ],
+    "cart": [{
+            "id": "9474",
+            "productId": 5,
+            "count": 5,
+            "price": 549.9499999999999
+        },
+        {
+            "id": "dd61",
+            "productId": 3,
+            "count": 2,
+            "price": 4199.98
+        },
+        {
+            "id": "732e",
+            "productId": 2,
+            "count": 1,
+            "price": 29.99
+        }
+    ]
+}

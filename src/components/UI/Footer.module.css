@@ -1,0 +1,56 @@
+.goTop {
+    background-color: rgb(58, 67, 82);
+    color: white;
+    text-align: center;
+    padding: 14px;
+    font-size: 12px;
+}
+
+.footerTop {
+    background-color: rgb(35, 47, 63);
+    padding: 40px 180px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    line-height: 30px;
+}
+
+.footerTop p {
+    font-size: 16px;
+    color: white;
+    font-weight: 800;
+}
+
+.footerTop li {
+    font-size: 14px;
+    color: rgb(197, 199, 197);
+    padding: 2px;
+}
+
+.footerTop li:hover {
+    text-decoration-line: underline;
+}
+
+.footerBottom {
+    background-color: rgb(35, 47, 63);
+    padding: 10px;
+    border-top: 1px solid rgb(197, 199, 197);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.footerBottom ul {
+    display: flex;
+    gap: 5px;
+}
+
+.logo {
+    width: 120px;
+    padding: 8px;
+}

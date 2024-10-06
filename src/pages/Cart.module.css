@@ -1,0 +1,97 @@
+.cart {
+    padding: 30px;
+    background-color: rgb(226, 230, 231);
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr; */
+}
+
+.shoppingBasket,
+.emptyCart {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 0 2px grey;
+    width: 100%;
+}
+
+.subtotal {
+    /* background-color: indigo; */
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 0 2px grey;
+    width: 270px;
+}
+
+.shoppingBasket {
+    padding: 40px;
+}
+
+.shoppingBasket>button {
+    background-color: transparent;
+    border: none;
+    color: teal;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.shoppingBasket button:hover {
+    color: tomato;
+}
+
+.shoppingBasket>p {
+    border-top: 1px solid rgb(207, 207, 207);
+    padding: 20px 0;
+    text-align: right;
+}
+
+.shoppingBasket>p,
+.subtotal {
+    font-size: 16px;
+}
+
+.shoppingBasket>p>span,
+.subtotal span {
+    font-weight: bold;
+}
+
+.gift {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.gift label {
+    font-size: 12px;
+}
+
+.submit {
+    background-color: rgb(254, 216, 19);
+    box-shadow: 0 0 5px grey;
+    padding: 4px 16px;
+    /* font-size: 16px; */
+    line-height: 20px;
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    margin-top: 16px;
+}
+
+.subtotal {
+    padding: 20px;
+}
+
+.emptyCart {
+    padding: 32px;
+}
+
+.emptyCart p {
+    margin-top: 15px;
+}
+
+.emptyCart .link {
+    color: rgb(59 130 246);
+    text-decoration: none;
+}

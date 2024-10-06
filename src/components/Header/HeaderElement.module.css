@@ -1,0 +1,36 @@
+.headerElement {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 1px;
+    border: 1px solid transparent;
+    height: 100%;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.text {
+    color: rgb(197, 199, 197);
+    font-size: 12px;
+}
+
+.title {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dropArrow {
+    width: 14px;
+}
+
+.headerElement:hover {
+    border: 1px solid white;
+}

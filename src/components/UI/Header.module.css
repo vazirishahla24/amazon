@@ -1,0 +1,41 @@
+.logo {
+    height: 100%;
+}
+
+.headerTop {
+    background-color: rgb(18, 25, 33);
+    height: 60px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    background-color: rgb(35, 47, 63);
+    padding: 2px;
+}
+
+.nav img {
+    height: 20px;
+}
+
+.nav ul {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 14px;
+}
+
+.nav li {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 2px;
+    border: 1px solid transparent;
+}
+
+.nav li:hover {
+    border: 1px solid white;
+}

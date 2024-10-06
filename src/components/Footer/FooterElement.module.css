@@ -1,0 +1,16 @@
+.footerElement {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 2px;
+    border: 1px solid rgb(197, 199, 197);
+    padding: 4px;
+}
+
+.img {
+    width: 17px;
+}
+
+.title {
+    color: rgb(197, 199, 197);
+}
